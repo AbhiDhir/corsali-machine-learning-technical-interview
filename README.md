@@ -2,7 +2,7 @@
 
 This is our project-based technical interview for machine learning engineers. It gives us a chance to see your abilities and how you approach problems. It is designed to give you creative freedom as you develop a solution, and consists of a model implementation quesion as well as non-coding questions below. Please complete both the coding and non-coding questions.
 
-Please FORK the repository or download as a zip file for your submission.
+Please download the repo as a zip file for your submission.
 
 ## Coding questions
 
@@ -28,6 +28,4 @@ _Type your answer to question 3 here_
 
 ## Submission
 
-Once complete, please email us a link to your forked repo with clean, tested code.
-
-Email fork link to: jobs@corsali.com or your current contact
+Once complete, please email a zip file to: jobs@corsali.com or your current contact
